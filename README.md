@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋 I'm Yaroslav Krokhmalnyi
 
-<!--
-**Yaroslav-Krokhmalnyi/Yaroslav-Krokhmalnyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+Junior Frontend Developer focused on building responsive and user-friendly web applications.  
+I work with modern frontend technologies, pay attention to clean code, UI behavior, and enjoy learning through real projects and teamwork.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+- 💻 **Languages:** JavaScript, TypeScript  
+- ⚛️ **Frontend:** React, HTML5, CSS3  
+- 🎨 **Layout:** Flexbox, Grid, Responsive Design  
+- 🧰 **Tools:** Git, GitHub, Vite  
+- 🔌 **Other:** REST API integration, basic team workflows
+
+---
+
+## 📫 Contacts
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/yaroslav-krokhmalnyi-9617973a6/
+- 📧 **Email:** krokhmalniy.code@gmail.com
+- 🌐 **GitHub:** https://github.com/Yaroslav-Krokhmalnyi
